@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/client1/Client1.iml" filepath="$PROJECT_DIR$/client1/Client1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/WeatherApp.iml" filepath="$PROJECT_DIR$/.idea/WeatherApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client2/client2.iml" filepath="$PROJECT_DIR$/client2/client2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/discoveryserver/discoveryserver.iml" filepath="$PROJECT_DIR$/discoveryserver/discoveryserver.iml" />
+    </modules>
+  </component>
+</project>
